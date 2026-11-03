@@ -16,7 +16,7 @@ var telegram_group_link = "https://t.me/+z42Hor9ySnw0ZjM9";
 // =======================================================
 // YOUTUBE CHANNEL LINK
 // =======================================================
-var youtube_channel_link = "YouTube channel link";
+var youtube_channel_link = "https://www.youtube.com/@TXSAHAYT";
 
 // =======================================================
 // NOTIFICATION TEXT

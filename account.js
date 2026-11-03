@@ -1,17 +1,17 @@
 // =======================================================
 // WEBSITE NAME (NICKNAME)
 // =======================================================
-var website_name = "YASIN";
+var website_name = "TX TOPUP";
 
 // =======================================================
 // TELEGRAM CHANNEL LINK
 // =======================================================
-var telegram_channel_link = "telegram channel link";
+var telegram_channel_link = "https://t.me/+z42Hor9ySnw0ZjM9";
 
 // =======================================================
 // TELEGRAM GROUP LINK
 // =======================================================
-var telegram_group_link = "telegram group link";
+var telegram_group_link = "https://t.me/+z42Hor9ySnw0ZjM9";
 
 // =======================================================
 // YOUTUBE CHANNEL LINK
@@ -23,4 +23,4 @@ var youtube_channel_link = "YouTube channel link";
 // =======================================================
 var notification_text = `সবথেকে কম দামে টপ করার জন্য সেরা ওয়েবসাইট
 ১০০% বিশ্বস্ত ও দ্রুত ডেলিভারিতে
-অর্ডার করুন নিশ্চিন্তে ♥️`;
+অর্ডার করুন নিশ্চিন্তে TX TOPUP এ ♥️`;
